@@ -79,3 +79,18 @@ form {
   width: 60%;
   margin: auto;
 }
+
+.priority.Low {
+  background-color: rgb(0, 119, 128); 
+  border-radius: 5px;
+}
+
+.priority.Medium {
+  background-color: rgb(220, 137, 173); 
+  border-radius: 5px;
+}
+
+.priority.High {
+  background-color: rgb(155, 120, 177); 
+  border-radius: 5px;
+}
